@@ -2,7 +2,7 @@
 
 # Node.js time-based scheduling with Node Schedule
 
-## Code Examples for [Node.Js Connect](http://www.nodejsconnect.com/) Blog Post: Node.js time-based scheduling with Node Schedule.
+## Code Examples for [Node.Js Connect](http://www.nodejsconnect.com/blog/articles) Blog Post: Node.js time-based scheduling with Node Schedule.
 
 ## Dependencies
 
