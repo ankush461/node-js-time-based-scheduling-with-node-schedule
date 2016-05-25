@@ -16,6 +16,8 @@ What you need to run this app:
 
 * Clone this repo: git clone https://github.com/kevinchisholm/node-js-time-based-scheduling-with-node-schedule.git
 
+* Run this command in your terminal: **npm install**
+
 ### Running the examples
 
 #### Example # 1:
