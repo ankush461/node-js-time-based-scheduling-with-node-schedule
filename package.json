@@ -1,0 +1,9 @@
+{
+  "name": "nodeSchedule",
+  "description": "Example code for the blog post: Node.js time-based scheduling with Node Schedule",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "node-schedule" : "latest"
+  }
+}
